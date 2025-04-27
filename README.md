@@ -2,7 +2,7 @@
 
 
 ## PROJECT OBJECTIVE
-The AdventureWorks Store wants to create an Product sales report and Customer detail report, So that the owner of the AdventureWorks Store can understand their customers and grow more.
+"To analyse sales, customer behaviour, and product performance data from the AdventureWorks Store database, and to create interactive dashboards and reports that provide actionable insights for improving business strategies, boosting sales performance, and enhancing customer retention."
 ## DATASET USED 
 -<a href = "https://github.com/RichaGitHub1009/AW_Project/blob/main/AdventureWorks_Calendar.csv">Calendar </a> 
 
