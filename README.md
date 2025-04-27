@@ -72,4 +72,4 @@ The AdventureWorks Store wants to create an Product sales report and Customer de
 
 •	Top customer with maximum revenue and total orders.
 ## FINAL CONCLUSION
-To improve the sales of Reliance Smart store, a strategic marketing plan focused on central west to improve its revenue. This demographic represents a key consumer segment, as they often make significant household and lifestyle purchases. The approach should  include targeted 
+To improve the sales of AdventureWorks  store, a strategic marketing plan focused on central west to improve its revenue. This demographic represents a key consumer segment, as they often make significant household and lifestyle purchases. The approach should  include targeted 
